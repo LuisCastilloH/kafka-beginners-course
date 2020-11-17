@@ -2,3 +2,5 @@ src/main/java/com/github/simpleluis/kafka/tutorial1
 .idea/
 target/
 *.iml
+*.json
+config*
